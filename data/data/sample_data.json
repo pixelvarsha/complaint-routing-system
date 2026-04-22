@@ -1,0 +1,38 @@
+[
+  {
+    "text": "Water leakage in street",
+    "priority": "high",
+    "eta_days": 2,
+    "department": "water"
+  },
+  {
+    "text": "Street light not working",
+    "priority": "medium",
+    "eta_days": 4,
+    "department": "electric"
+  },
+  {
+    "text": "Garbage not collected",
+    "priority": "high",
+    "eta_days": 1,
+    "department": "sanitation"
+  },
+  {
+    "text": "Road potholes issue",
+    "priority": "low",
+    "eta_days": 7,
+    "department": "road"
+  },
+  {
+    "text": "Drainage blockage problem",
+    "priority": "high",
+    "eta_days": 2,
+    "department": "sanitation"
+  },
+  {
+    "text": "Electric pole sparks",
+    "priority": "high",
+    "eta_days": 1,
+    "department": "electric"
+  }
+]
